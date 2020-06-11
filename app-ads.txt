@@ -1,2 +1,2 @@
-#app-ads.txt file for craftsapp.web.app
-google.com, pub-3878496920714204, DIRECT, f088c47fec942fa0
+#app-ads.txt file for UncleCiba Team
+google.com, pub-2911419431566003, DIRECT, f08c47fec0942fa0
